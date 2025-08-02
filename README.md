@@ -1,4 +1,4 @@
-Ananas reporting is short java program to send directly through email the result of a SQL query at programmed time (cron like). It is based on a configuration file.
+onAnanas reporting is short java program to send directly through email the result of a SQL query at programmed time (cron like). It is based on a configuration file.
 
 ## How To Get Started
 
@@ -153,4 +153,4 @@ Configure your `datasources` as described in this documentation.
 ## Why such a weird name : Ananas Reporter ?
 
 I've decided to call all my projects with fruits name. It's fresh and good. There is no specific reason but I had just eaten an ananas when I had the idea for this project ;-)
-https://www.instagram.com/chaid_atjantasee?igsh=cHJ1bDNucm5kNTE=
+https://www.instagram.com/chaid_atjantasee?igsh=cHJ1bDNucm5kNTE=sum of all the website and they said they could you and Google operation data center Thailand 
